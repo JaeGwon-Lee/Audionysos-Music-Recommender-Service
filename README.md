@@ -122,9 +122,6 @@
 
 ## 📁추가 자료
 - 🔗[서비스](https://au-dionysos.com/) (2024.04.16까지 운영 예정)  
-- 🎦[발표 영상]()  
-- 🔗[발표 자료]()  
-- 🎦[시연 영상]()  
-- 🔗[리포트]()  
+- 🔗[리포트](https://github.com/JaeGwon-Lee/Audionysos-Music-Recommender-Service/blob/main/WrapUp_Report.pdf)  
 
 <br>
